@@ -5,6 +5,13 @@ package com.gkmohit.unknown.primenumbers;
  */
 import android.graphics.Color;
 import android.util.Log;
+import android.view.View;
+import android.widget.Button;
+import android.widget.EditText;
+import android.widget.LinearLayout;
+import android.widget.ListView;
+import android.widget.RelativeLayout;
+import android.widget.TextView;
 
 import java.util.Random;
 
@@ -40,5 +47,7 @@ public class ColorWheel {
         Log.d(TAG, "Returning : " + color + " /" + colorAsInt);
         return colorAsInt;
     }
+
+
 }
 

@@ -42,7 +42,6 @@ public class Model {
         return temp;
     }
     public void clear(){
-
         factorList.clear();
     }
 //    public ArrayAdapter toArrayAdaptor(){

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PrimeNumbers.iml" filepath="$PROJECT_DIR$/PrimeNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactorsOfANumber.iml" filepath="$PROJECT_DIR$/FactorsOfANumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
