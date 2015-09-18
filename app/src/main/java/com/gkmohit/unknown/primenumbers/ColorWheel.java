@@ -5,13 +5,6 @@ package com.gkmohit.unknown.primenumbers;
  */
 import android.graphics.Color;
 import android.util.Log;
-import android.view.View;
-import android.widget.Button;
-import android.widget.EditText;
-import android.widget.LinearLayout;
-import android.widget.ListView;
-import android.widget.RelativeLayout;
-import android.widget.TextView;
 
 import java.util.Random;
 
@@ -34,7 +27,12 @@ public class ColorWheel {
             "#e0ab18", // mustard
             "#637a91", // dark gray
             "#f092b0", // pink
-            "#b7c0c7"  // light gray
+            "#b7c0c7", // light gray
+            "#88CC88", //light green
+            "#8E591B", //brown
+            "#185A8D", //blue
+            "#6C399E"  //
+
     };
     public int getColor() {
         Log.d(TAG, "getColor() was called.");
